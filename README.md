@@ -1,2 +1,2 @@
-# plant_deseas
+# plant_disease
 for interrnal_hackathon
